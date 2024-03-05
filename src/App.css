@@ -1,0 +1,12 @@
+.App-light {
+  color: aliceblue;
+  text-align: center;
+  background-color: rgb(147, 198, 241);
+}
+
+.App-dark{
+  color: rgb(201, 226, 243);
+  background-color: black;
+  text-align: center;
+}
+
